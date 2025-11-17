@@ -9,7 +9,7 @@
 
 "completed": false,
 
-"durDate": "2024-04-30,
+"durDate": "30-10-2004,
 
 "userId": 1,
 
@@ -26,7 +26,7 @@
 
 "completed": true,
 
-"dueDute": "2024-05-25
+"dueDute": "2024-05-25",
 
 "userld": 2,
 
@@ -36,9 +36,9 @@
 "id":3,
 
 "title": "Book dentist appointment",
-"description": "Call to schedule an appointment".
+"description": "Call to schedule an appointment",
 "completed": false,
-"dueDute": "2004-09-05",
+"dueDute": "10-10-2005",
 "Userld": 1,
 "categoryId":3
 }
@@ -47,12 +47,12 @@
     {
       "id":1,
       "name":"bob",
-      "email":"bob@ gmail.com
+      "email":"bob@gmail.com
     },
     {
       "id":2,
       "name":"alice",
-      "email":"alice@ gmail.com
+      "email":"alice@gmail.com
     },
   ],
   "categories":[
