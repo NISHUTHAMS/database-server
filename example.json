@@ -1,77 +1,56 @@
 {
-"todos":[
-
-"id": 1,
-
-"title": "Buy groceries",
-
-"description": "Milk, breal, eggs, and fruits",
-
-"completed": false,
-
-"durDate": "30-10-2004,
-
-"userId": 1,
-
-"categoryId":2
-  },
-  
-  {
-
-"id": 2
-
-"title": "Finish project report",
-
-"description": "Complete the report for the quarterly project",
-
-"completed": true,
-
-"dueDute": "2024-05-25",
-
-"userld": 2,
-
-"categoryId":1
-  },
-{
-"id":3,
-
-"title": "Book dentist appointment",
-"description": "Call to schedule an appointment",
-"completed": false,
-"dueDute": "10-10-2005",
-"Userld": 1,
-"categoryId":3
-}
-],
-  "users":[
+  "users": [
     {
-      "id":1,
-      "name":"bob",
-      "email":"bob@gmail.com
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@gmail.com"
     },
     {
-      "id":2,
-      "name":"alice",
-      "email":"alice@gmail.com
-    },
+      "id": 2,
+      "name": "Nishutha",
+      "email": "nishutha@example.com"
+    }
   ],
-  "categories":[
-    
+
+  "categories": [
     {
-      "id":1,
-      "name":"work",
-       },
+      "id": 1,
+      "name": "Work"
+    },
     {
-      "id":2,
-      "name":"personal",
-       },
+      "id": 2,
+      "name": "Personal"
+    },
     {
-      "id":3,
-      "name":"health",
-       }
+      "id": 3,
+      "name": "Shopping"
+    }
+  ],
+
+  "todos": [
+    {
+      "id": 101,
+      "title": "Finish Angular project",
+      "description": "Complete the remaining components",
+      "status": "In Progress",
+      "categoryId": 1,
+      "userId": 1
+    },
+    {
+      "id": 102,
+      "title": "Buy groceries",
+      "description": "Milk, eggs, fruits",
+      "status": "Todo",
+      "categoryId": 3,
+      "userId": 2
+    },
+    {
+      "id": 103,
+      "title": "Pay electricity bill",
+      "description": "",
+      "status": "Completed",
+      "categoryId": 2,
+      "userId": 2
+    }
   ]
 }
-  
-
-  
-  
