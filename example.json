@@ -1,0 +1,77 @@
+{
+"todos":[
+
+"id": 1,
+
+"title": "Buy groceries",
+
+"description": "Milk, breal, eggs, and fruits",
+
+"completed": false,
+
+"durDate": "2024-00-30,
+
+"userId": 1,
+
+"categoryId":2
+  },
+  
+  {
+
+"id": 2
+
+"title": "Finish project report",
+
+"description": "Complete the report for the quarterly project",
+
+"completed": true,
+
+"dueDute": "2024-00-25
+
+"userld": 2,
+
+"categoryId":1
+  },
+{
+"id":3,
+
+"title": "Book dentist appointment",
+"description": "Call to schedule an appointment".
+"completed": false,
+"dueDute": "2004-09-05",
+"Userld": 1,
+"categoryId":3
+}
+],
+  "users":[
+    {
+      "id":1,
+      "name":"bob",
+      "email":"bob@ gmail.com
+    },
+    {
+      "id":2,
+      "name":"alice",
+      "email":"alice@ gmail.com
+    },
+  ],
+  "categories":[
+    
+    {
+      "id":1,
+      "name":"work",
+       },
+    {
+      "id":2,
+      "name":"personal",
+       },
+    {
+      "id":3,
+      "name":"health",
+       }
+  ]
+}
+  
+
+  
+  
