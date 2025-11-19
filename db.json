@@ -32,7 +32,7 @@
       "id": 101,
       "title": "Finish Angular project",
       "description": "Complete the remaining components",
-      "completed": "false",
+      "completed": false,
       "dueDate":"15-08-2024",
       "categoryId": 1,
       "userId": 1
@@ -41,7 +41,7 @@
       "id": 102,
       "title": "Buy groceries",
       "description": "Milk, eggs, fruits",
-      "completed": "true",
+      "completed": true,
       "dueDate":"30-08-2024",
       "categoryId": 3,
       "userId": 2
@@ -50,8 +50,8 @@
       "id": 103,
       "title": "Book dentist appointment",
       "description": "call to scedule an appointment",
-      "completed": "false",
-       "dueDate":"60-08-2023",
+      "completed": false,
+       "dueDate":"20-08-2023",
       "categoryId": 2,
       "userId": 2
     }
